@@ -56,8 +56,9 @@ Terimakasih
 - [@NotReallyShikhar](https://github.com/NotReallyShikhar) - Dev
 - [@kenkansaja](https://github.com/kenkansaja) - Kanger
 - [@Toni880](https://github.com/Toni880) - Lord Ujian
+- [@kenapatagdar](https://github.com/darmazi) - Newbie
 
 
 ### Mari terhubung!
 
-<a href="https://t.me/kenkanasw"><img src="https://img.shields.io/badge/@kenkanasw-blue?style=flat&logo=telegram"/></a>
+<a href="https://t.me/kenapatagdar"><img src="https://img.shields.io/badge/@kenapatagdar-blue?style=flat&logo=telegram"/></a>
