@@ -1,23 +1,19 @@
-<h1><p align="center"><a>𝙈𝙐𝙎𝙄𝙆  𝙆𝙐</a><p/><h1/>
-<p align="left"><a href="https://github.com/kenkansaja/Musikku"><img src="https://telegra.ph/file/7286ea5b5a2f8dc66e3ed.jpg"width="300"heigh="100" /></a></p>
-
 ---
 ᴍᴜsɪᴋ  ᴋᴜ  ᴀᴅᴀʟᴀʜ  ʀᴇᴘᴏ  ᴄʟᴏɴᴇ  ᴅᴀʀɪ  [ʏᴜᴋᴋɪᴍᴜsɪᴄʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)  ᴛᴀᴘɪ  ʏᴀɴɢ  sᴜᴅᴀʜ  ᴅɪ  ʙᴀʜᴀsᴀ  ɪɴᴅᴏɴᴇsɪᴀᴋᴀɴ  ᴏʟᴇʜ  sᴀʏᴀ,  sᴀʏᴀ  ᴀᴅᴀʟᴀʜ  ᴋᴀɴɢᴇʀ  ʙᴜᴋᴀɴ  ᴄᴏᴅᴇʀ  ᴅᴀɴ  sᴀʏᴀ  ᴍᴀsɪʜ  ᴀᴍᴀᴛɪʀᴀɴ  ᴏᴋᴇʏ
 ___
 
-## DEPLOY DI HEROKU
+## 🖇 Generating Pyrogram String Session
 
-<p align="center"><a href="https://ice-iota-kohl.vercel.app"><img src="https://telegra.ph/file/6630257821911f10089b5.jpg" /></a></p>
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=a2Vua2Fuc2FqYS9NdXNpa2t1IE11c2lra3U"><img src="https://telegra.ph/file/70966bb4b212649afc8dc.jpg" /></a></p>
+- Generate a Pyrogram String Session via [Replit](https://replit.com/@Tonic990/StringSession)
 
+# Deployment on Heroku
 
-## DEPLOY OKTETO
+<details>
+<summary><b> 🚀 Heroku Deployment</b></summary>
+<br>
 
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/kenkansaja/Musikku"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200"/></a>
-
-## STRINGS SESSION PYROGRAM
-
-<p align="center"><a href="https://replit.com/@kenkannih/strings-session#main.py"><img src="https://img.shields.io/badge/REPLIT-STRINGS-yellow?style=plastic&logo=replit&logoColor=yellow"width="270" height="40" /></a></p>
+<h4>Click the button below to deploy Prime on Heroku!</h4>    
+<a href="https://heroku.com/deploy?template=https://github.com/darmazi/mazimusikku/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
 ## COMMAND ADMINS 🧑‍✈️
