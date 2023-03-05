@@ -4,7 +4,7 @@ ___
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@kenkannih/strings-session#main.py)
+- Generate a Pyrogram String Session via [Replit](https://replit.com/@kenkannih/strings-session)
 
 # Deployment on Heroku
 
